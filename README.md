@@ -22,7 +22,8 @@ El sistema de recomendación ha sido evaluado utilizando un conjunto de datos de
 
 ¡Todas las contribuciones son bienvenidas! Si tienes alguna idea de mejora, informe de errores o nuevas características, no dudes en abrir una solicitud de extracción o un problema en GitHub.
 
-# Contacto
+# Contacto 🧔🏻
 
-Para cualquier pregunta o comentario sobre el proyecto, no dudes en ponerte en contacto conmigo a través de [LinkedIn]([https://www.linkedin.com/in/tu_perfil_linkedin](https://www.linkedin.com/in/alejandroflorezl/)https://www.linkedin.com/in/alejandroflorezl/) para conectarte y seguir mi trabajo.
+Para cualquier pregunta o comentario sobre el proyecto, no dudes en ponerte en contacto conmigo a través de [![Linkedin](https://raw.githubusercontent.com/alejoflop/ChallengeEncriptador/main/imagenes/linkedin.svg)](https://www.linkedin.com/in/alejandroflorezl/) para conectarte y seguir mi trabajo.
 
+[![GitHub](https://raw.githubusercontent.com/alejoflop/ChallengeEncriptador/main/imagenes/github.svg)](https://github.com/alejoflop)
